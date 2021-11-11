@@ -3,8 +3,6 @@
 
 - 🔭 I’m currently working on [Human Rights First, DocDB](https://github.com/Lambda-School-Labs/human-rights-first-docdb-be)
 
-- 💬 Ask me about **FL Studio**
-
 - 📫 How to reach me **bradfordmeziere01@gmail.com**
 
 - 📄 Know about my experiences [https://docs.google.com/document/d/1SQnABK7Mgty1Nr0Pm3ZJNHFQQCdEsucfVcbLOZMpe_8/edit?usp=sharing](https://docs.google.com/document/d/1SQnABK7Mgty1Nr0Pm3ZJNHFQQCdEsucfVcbLOZMpe_8/edit?usp=sharing)

@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Bradford</h1>
-<h3 align="center">A passionate frontend developer from Oklahoma</h3>
+<h3 align="center">A passionate Full Stack Developer from Oklahoma</h3>
 
 - 🔭 I’m currently working on [Human Rights First, DocDB](https://github.com/Lambda-School-Labs/human-rights-first-docdb-be)
 
